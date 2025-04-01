@@ -4,6 +4,8 @@ This repository provides code for the FPGAPart partitioner. To cite our work, pl
 Luu, B. Pramanik, K. Vorwerk and G. Zgheib, "A Partitioning-Based CAD Flow For Interposer-Based Multi-Die FPGAs", Proc.
 FCCM, 2025, pp. 1--9.
 
+VTR 7.0 (interposer branch) is also released under a permissive license, specifically, the MIT license. 
+
 `FPGAPart` adopts the multilevel partitioning paradigm inspired by `TritonPart`. This flow consists of three main phases:
 
 ## 1. Multilevel Clustering
